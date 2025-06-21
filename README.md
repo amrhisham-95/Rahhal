@@ -12,7 +12,7 @@ with Rahal, users can:
 Whether you're planning a trip or simply curious about the world, Rahal offers a seamless and informative experience for every explorer.
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/8c492ea2-e8c4-4f74-969b-93f16e6b164a)
+![Image](https://github.com/user-attachments/assets/dfff8520-dd7a-4036-a084-b0a91e2799ea)
 
 ## Architecture
 - The application was built based on the following:
